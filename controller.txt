@@ -1,1 +1,5 @@
-fix issue 01 in controller
+//fix issue 01 in controller
+
+public void Init(){
+	//init here
+}
