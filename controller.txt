@@ -3,3 +3,7 @@
 public void Init(){
 	//init here
 }
+
+public bool IsNumber(){
+	return true;
+}
