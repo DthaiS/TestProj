@@ -4,6 +4,6 @@ public void Init(){
 	//init here
 }
 
-public bool IsNumber(){
+public bool IsNumber(string str){
 	return true;
 }
