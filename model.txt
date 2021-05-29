@@ -1,2 +1,2 @@
 int id;
-string birthday;
+string birthday_demo;
