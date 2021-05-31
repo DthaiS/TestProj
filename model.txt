@@ -2,4 +2,4 @@ int id;
 string birthday_masterdemo;
 int demo;int demo_chuan
 --config mergetool--test demo
-//master
+//master//demo
