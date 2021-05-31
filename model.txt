@@ -1,2 +1,3 @@
 int id;
 string birthday_masterdemo;
+int demo;
