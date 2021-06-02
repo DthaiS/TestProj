@@ -4,3 +4,5 @@ int demo;int demo_chuan
 --config mergetool--test demo
 //master - this is master
 //demo-this is demo
+
+master-code
