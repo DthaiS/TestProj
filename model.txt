@@ -3,3 +3,5 @@ string birthday_masterdemo;
 int demo;int demo_chuan
 --config mergetool--test demo
 //demo-this is demo
+
+user 1 fix demo;
