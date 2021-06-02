@@ -1,0 +1,12 @@
+int id;
+string birthday_masterdemo;
+int demo;int demo_chuan
+--config mergetool--test demo
+//demo-this is demo
+
+<<<<<<< HEAD
+user 1 fix demo;
+master-code
+=======
+user 1 fix demo;
+>>>>>>> f16cbb607539dac5190a80d45666b54d5a595ace
