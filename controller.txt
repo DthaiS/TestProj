@@ -8,3 +8,5 @@ public bool IsNumber(string str){
 	return true;	
 	//THIS IS NOTE CODE
 }
+
+b: say b
